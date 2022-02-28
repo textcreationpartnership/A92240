@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for valuing Youghil according to act of Parliament for provision of ministers in cities and towns corporate, &amp;c. 17, 18 Car. 2d.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92240</idno>
+            <idno type="STC">Wing R520A</idno>
+            <idno type="STC">ESTC R42545</idno>
+            <idno type="EEBO-CITATION">36282288</idno>
+            <idno type="OCLC">ocm 36282288</idno>
+            <idno type="VID">150196</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150196)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for valuing Youghil according to act of Parliament for provision of ministers in cities and towns corporate, &amp;c. 17, 18 Car. 2d.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Ireland --  Finance --  Early works to 1800.</term>
+               <term>Church of Ireland --  Clergy --  Early works to 1800.</term>
+               <term>Ireland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:150196:1" rendition="simple:additions"/>
+            <head>REASONS For Valuing YOUGHIL, According to Act of Parliament for <hi>Proviſion</hi> of Miniſters in Cities and Towns Corporate, <hi>&amp;c.</hi> 17, 18. <hi>Car. 2d.</hi>
+            </head>
+            <p>
+               <hi>The Caſe Stated.</hi>
+            </p>
+            <p>ABove 60 years ago, the Pariſh or Wardenry of <hi>Youghil</hi> was annext to the See of <hi>Cloyn,</hi> to augment its Revenue, which was very ſmall. The Tyth of <hi>Youghil</hi> is about 44 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per annum,</hi> out of which a third part, or half, and all the ſmall Dues, have been allowed the Curate for officiating. The Glebe, and two Houſes amount to al<g ref="char:EOLhyphen"/>moſt 35 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per annum,</hi> in all 79 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>The Corporation and their Agent, ſay 'tis 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per annum,</hi> and in their Petition to the Council, 150 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per annum.</hi>
+            </p>
+            <p>For peace ſake, the whole Pariſh has been offered them, if they will pay 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per annum</hi> to the Biſhop, and 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> to the Curate, beſides the ſmall Duties; and to make the Incumbent, <hi>who has the actual Cure of Souls</hi> 150 <abbr>
+                  <hi>l,</hi>
+               </abbr> [the leaſt a worthy man can have for the diſcharge of ſo great a Cure.] The Biſhop will implore the Governments aſſiſtance, and will add the firſt convenient Living in his Donation: All which being Rejected by the Corporation, a valuation of the Houſes, is humbly craved for the <hi>Incumbent, who has actual Cure of Souls,</hi> according to the Statute;</p>
+            <p>For theſe Reaſons,</p>
+            <p>
+               <hi>Firſt,</hi> The Title, 'tis <hi>an Act for proviſion of Miniſters in Cities and Towns Corporate,</hi> &amp;c. without exception of <hi>Youghil,</hi> or any Town Corporate whatever, by adding a <hi>charge on each Houſe and Houſes in each Pariſh,</hi> &amp;c. as in the Act.</p>
+            <p>
+               <hi>Secondly,</hi> The Preamble of the Act gives the Reaſon or Motive, why Houſes were to be charged, <hi>viz. Whereas in Cities and Towns Corporate, there are ſmall or no Tyths or other Duties,</hi> &amp;c. <hi>Whereas</hi> is a Note of Con<g ref="char:EOLhyphen"/>ceſſion, and takes for Granted; which ſhews undeniably, that Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="2" facs="tcp:150196:2"/>was fully ſatisfied there was <hi>ſmall <hi>Proviſion</hi>
+               </hi> for Miniſters, in Cities, <hi>&amp;c.</hi> or an Act would not have been made to charge each <hi>Houſe</hi> and <hi>Houſes</hi> in <hi>each Pariſh</hi> reſpectively, without <hi>Exception.</hi> All Enquiry therefore, whether Miniſters had <hi>Proviſion <hi>in Cities and Towns Cor<g ref="char:EOLhyphen"/>porate,</hi>
+               </hi> is excluded [except into ſuch Towns as were Incorporated ſince the ſaid Act was made, whereon it could not paſs its Judgment.]</p>
+            <p>Indeed, had the word been <hi>Where <hi>there are ſmall or no Tythes,</hi>
+               </hi> &amp;c. that would have neceſſitated Enquiry, and doubtleſs the Parliament would have uſed that word, had that been their Intention, but <hi>whereas,</hi> or ſeeing, or ſince, or becauſe, <hi>there are ſmall or no Tythes,</hi> &amp;c. determins the mat<g ref="char:EOLhyphen"/>ter, and ſtops all enquiry.</p>
+            <p>In <hi>Cities</hi> and <hi>Towns Corporate,</hi> there cannot be much Tyth or other Du<g ref="char:EOLhyphen"/>ties, <hi>viz.</hi> Marriages, Offerings, Churchings, <hi>&amp;c.</hi> which are all the <hi>Pro<g ref="char:EOLhyphen"/>viſion</hi> the Act mentions, and which the Parliament could not but know were too uncertain, as well as too ſmall for Miniſters <hi>Proviſion.</hi>
+            </p>
+            <p>Glebe Lands are not mentioned in the Act, we cannot think the Par<g ref="char:EOLhyphen"/>liament forgot them, or did not know that they might belong to Mini<g ref="char:EOLhyphen"/>ſters in Towns Corporate, or thought them contained in the words <hi>other Duties:</hi> I preſume it cannot be proved by Law, or Authentick writing, or Land-Lords Leaſes, that <hi>Duties</hi> ſignifie <hi>Lands,</hi> but ſmall Dues com<g ref="char:EOLhyphen"/>monly called <hi>Perquiſits.</hi>
+            </p>
+            <p>The Act then mentioning, only, ſuch Profits as did, or might a<g ref="char:EOLhyphen"/>riſe in <hi>Cities,</hi> &amp;c. and nothing elſe plainly, ſpeaks its intent to be, that Cities and Towns containing much people, which require much Care and much Pains, ſhould make proviſion for thoſe who had the care of their Souls: Now there being but ſmall or no Tythes or other Duties ariſing in Cities and Towns Corporate, Equity required that the Houſes wherein they dwelt and got their gain [or ſomewhat equivalent] ſhould be charged for <hi>Proviſion</hi> for their Miniſters. All the Proviſion in them <hi>ſettled by Law</hi> not being enough, and ſeems to have no eye on the Glebes, or any remote emolument, whereon poſſibly, not a Soul lived that re<g ref="char:EOLhyphen"/>quired a Miniſters care.</p>
+            <p>
+               <hi>Thirdly,</hi> What Reaſon is there, that 3 or 400 Families [let a Miniſter have never ſo much elſe where] ſhould have daily Prayers, Preaching, Catechiſing, and all Spirituals Sowed to them, and they Communicate nothing of their Temporalities.</p>
+            <p>
+               <hi>Fourthly,</hi> Where is the Equity that two or three Farmers [too remote it may be to come to Church, or of principle which will not ſuffer them to come] ſhould maintain Miniſters for 3 or 400 Families to enjoy all the benefits of the Miniſtry.</p>
+            <p>
+               <hi>Fifthly,</hi> In the body of the Act 'tis humbly conceived, <hi>ſhall and may be lawful for the chief Governours and Council to allot,</hi> &amp;c. lays an Obligation to <hi>allot</hi> and <hi>charge,</hi> &amp;c. Serjeant <hi>Osburn,</hi> and others [Council againſt the Church] own'd at the Council board, that <hi>ſhall</hi> and <hi>may</hi> was a civil Ex<g ref="char:EOLhyphen"/>preſſion for muſt, otherwiſe there would be no Obligation on the Coun<g ref="char:EOLhyphen"/>cil
+<pb n="3" facs="tcp:150196:2"/>to allot any Summ in any City or Town Corporate whatever [unleſs they pleaſed] there being no imperative words but thoſe; and then the Act, for <hi>Proviſion</hi> of Miniſters in Towns Corporate, might be quite conſtrued away, and give nothing in any City or Town whatever: But certainly the Act intended ſomething; and made the chief Governours and Coun<g ref="char:EOLhyphen"/>cil, not ſo much Arbitrators of the Law, whether the Clergy ſhould have ſomething, or nothing, by the Act, as Truſtees, to maintain the rights it gives the Clergy; and 'tis not doubted but they will defend them againſt ſuch who for little Intereſts of their own, or to ingratiate with great men would defraud them of the benefit of the Act.</p>
+            <p>
+               <hi>Laſtly,</hi> Will not refuſeing the eſtabliſht Miniſters by Law their reſpe<g ref="char:EOLhyphen"/>ctive valuations in Towns Corporate [eſpecially in the poorer ſort] inable the Inhabitants more eaſily to contribute towards Diſſenting, or Popiſh Miniſters, which may look like incouraging Diviſion, as granting them, muſt diſcourage it, moſt thinking it enough to pay once to any Miniſtry.</p>
+            <p>
+               <hi>Ob.]</hi> As to the pretence of a <hi>Competency</hi> without a valuation of Houſes:</p>
+            <p>
+               <hi>Firſt,</hi> there is no ſuch uncertain, and as applyed inſignificant word in the Act, tho' ſome endeavour to have it thought there is. And if they were to determine the word, a ſmall pittance ſhould be a <hi>Compe<g ref="char:EOLhyphen"/>tence</hi> for Clergy-men.</p>
+            <p>
+               <hi>Secondly,</hi> No Act can allow of the word; it being impoſſible to ſet its bounds. Is 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per annum</hi> a <hi>Competency</hi> for a Miniſter with a Wife and two or three Children? would it not be too little if he ſhould have four or five? and may it not be too much if the Wife and Children died? Is 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per annum</hi> the <hi>Competency?</hi> If ſo, the Council could not have granted Seaven valuations for St. <hi>Michan</hi>'s, the firſt being 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> and bet<g ref="char:EOLhyphen"/>ter, nor could any Commiſſion iſſue to value any Pariſh, or part of a Pariſh which is 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per annum</hi> already. The contrary of which is evi<g ref="char:EOLhyphen"/>dent in ſeveral Pariſhes in <hi>Dublin.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> When the Charity Town Corporate Miniſters muſt give; the Hoſpitality they muſt uſe; the expences for Books and Cloathing, above other Miniſters; and Proviſion for Wives and Children are conſidered as they ought, 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per annum</hi> will not extravagantly inrich them in Cities and Towns Corporate.</p>
+            <p>
+               <hi>Ob.]</hi> As to the Allegation, why was not a valuation deſired theſe 36 Years paſt.</p>
+            <p>
+               <hi>Anſ.]</hi> The King's Council [on an Order from the Board] have deliver<g ref="char:EOLhyphen"/>ed their opinion in Writing, that that can be no bar.</p>
+            <p>Beſides while <hi>Cork, Roſs</hi> and <hi>Cloyn</hi> were united, there might not be ſo much need of a valuation.</p>
+            <p>Some might not underſtand their Right to a valuation, or not have opportunity of Proſecuting it; if they did,</p>
+            <pb n="4" facs="tcp:150196:3"/>
+            <p>Others might dread the Coſts, Pains, Journies, or Threats of oppoſiti<g ref="char:EOLhyphen"/>on, <hi>&amp;c.</hi> But chiefly, 'tis to be feared, ſome might have their Eyes on better preferment, ſo over-look'd the good of the poor See, nor would con<g ref="char:EOLhyphen"/>tend for it, leaſt that ſhould ſtir up ſome to contend againſt their pro<g ref="char:EOLhyphen"/>motion.</p>
+            <p>Theſe may be the Reaſons why ſcarce one Corporate Town in Ten is valued, in many of them the charge of a Patent wou'd be 10, 20, or 30 Years purchaſe.</p>
+            <p>Yet ſure in Conſcience, ſuch Inhabitants ought to pay what the Law would have done, could it be put in Execution.</p>
+            <p>Even the Phariſee paid Tyth of all he poſſeſſed, whoſe Righteouſneſs muſt be <hi>Exceeded</hi> by all thoſe who intend to <hi>Enter into the Kingdom of Heaven, Mat.</hi> 5.20.</p>
+            <p>
+               <hi>Who Feedeth a Flock, and Eateth not of the Milk of the Flock,</hi> 1 Cor. 9.7.</p>
+            <p>
+               <hi>Let him that is taught in the Word, Miniſter to him that Teacheth in all good things,</hi> Gal, 6.6.</p>
+            <p>'Till the Goſpels of our Lord Jeſus are quite exploded, theſe Texts muſt have force with all true Chriſtians.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
